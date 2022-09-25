@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vissshw
+- 👀 I’m interested in VAPT/Infosec/Offsec
+- 🌱 I’m currently learning Mobile app pentesting/Python
+- 📫 Vissshw@protonmail.com
